@@ -1,1 +1,3 @@
-# luisaeck.github.io
+---
+permalink: /index.html
+---
